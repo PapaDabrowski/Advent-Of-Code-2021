@@ -1,13 +1,9 @@
-import com.sun.security.jgss.GSSUtil;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.List;
-
-
 
 /*
   Display:
@@ -20,9 +16,6 @@ import java.util.List;
      gggg       gggg
 
  */
-
-//dcga cadgbfe gecba cbfde eda cdbea gbadfe fegcba bedgca da | bgefdac bdace ad agcd
-
 public class Solver {
     private static final int INDEX_NOT_FOUND = 0;
 
