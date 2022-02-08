@@ -72,7 +72,7 @@ public class Solver {
 
     int getResult()
     {
-        List<String> list = getFile("src/main/java/data.txt");
+        List<String> list = getFile("src/data.txt");
         int result = 0;
         for(String temp : list){
             int tmpResult = 0;
